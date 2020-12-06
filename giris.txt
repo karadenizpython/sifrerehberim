@@ -1,0 +1,7 @@
+#####  ŞİFRE REHBERİM PROJESİ - 2020 #####
+
+
+Bu proje Milli Eğitim Bakanlığı ve Cisco işbirliği ile gerçekleştirilen Python Eğitici Eğitiminde bulunan Karadeniz_Python grubu üyeleri tarafından geliştrilmektedir.
+
+
+GELİŞTİRİLMEYE DEVAM EDİLMEKTEDİR.
