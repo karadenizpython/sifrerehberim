@@ -11,3 +11,5 @@ Python Eğitici Eğitimi Karadeniz_Python grup sayfasıdır.
 
 Projenin kullanımı herkese açıktır. İsteyen dosyaları indirip kullanabilir. 
 20.12.2020
+
+[Şifre Rehberim uygulaması için hazırlanan "Kullanım Kılavuzu" dosyasını inceleyebilirsiniz.]
