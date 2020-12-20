@@ -7,5 +7,7 @@ Bu proje Milli Eğitim Bakanlığı ve Cisco işbirliği ile gerçekleştirilen 
 GELİŞTİRİLMEYE DEVAM EDİLMEKTEDİR.
 
 
-
 Python Eğitici Eğitimi Karadeniz_Python grup sayfasıdır.
+
+Projenin kullanımı herkese açıktır. İsteyen dosyaları indirip kullanabilir. 
+20.12.2020
