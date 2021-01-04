@@ -13,3 +13,5 @@ Projenin kullanımı herkese açıktır. İsteyen dosyaları indirip kullanabili
 20.12.2020
 
 [Şifre Rehberim uygulaması için hazırlanan "Kullanım Kılavuzu" dosyasını inceleyebilirsiniz.]
+
+04.01.2021[main.0.1.py]: Tarihi itibariyle "Şifrelerimi Göster" ekranında bir güncellemeye gidilmiş olup "sil" ve "güncelle" butonları eklenmiştir.
